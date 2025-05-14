@@ -35,7 +35,7 @@ La aplicación está desarrollada con Flutter, lo que garantiza un rendimiento �
     ```bash
     flutter pub get
 4. Configurar Firebase según las instrucciones oficiales:
-    [AFirebase Flutter Setup](https://firebase.flutter.dev/docs/overview/)
+    [A Firebase Flutter Setup](https://firebase.flutter.dev/docs/overview/)
 5. Ejecutar la aplicación:
     ```bash
     flutter run
@@ -45,5 +45,4 @@ La aplicación está desarrollada con Flutter, lo que garantiza un rendimiento �
 Las contribuciones son bienvenidas. Para colaborar, por favor abre un issue o realiza un pull request con tus sugerencias o mejoras.
 
 ## Contacto
-Para más información o sopor
-Correo: <jujaimesc@unal.edu.co>
+Para más información o soporte comunicate a este correo: <jujaimesc@unal.edu.co>
